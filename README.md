@@ -56,6 +56,6 @@ This dashboard was developed to consolidate key performance metrics into a singl
 
 ## Repository Contents
 
-- Bike Store Sales.pbix
+- Sales Dataset.pbix
 - README.md
 - Dashboard screenshots
